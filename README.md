@@ -1,6 +1,8 @@
 # 💫 About Me:
 I’m currently learning Blockchain Technology<br>👨‍💻 All of my projects are available at https://github.com/dideesh92/portfolio_react<br><br>💬 Ask me about Blockchain Developer,Hyperledger Fabric,Ethereum,Solidity,REACT,HTML,CSS,TAILWIND,MERN<br><br>📫 How to reach me dideesh.babu@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1KQ9zISyDOqS7RivdrjIEr3XOjrkcGko0/view?usp=drive_link<br><br>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DIDEESH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/didu_always) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dideesh-babu-46863b93/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsmedideesh2361) 
