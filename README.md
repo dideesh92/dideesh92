@@ -1,8 +1,11 @@
 # 💫 About Me:
-I’m currently learning Blockchain Technology
+I'm a blockchain developer and full-stack enthusiast with a solid foundation in decentralized technologies and Web 2 & Web 3 development. 
 
-
-<br>👨‍💻 All of my projects are available at https://github.com/dideesh92/portfolio_react<br><br>💬 Ask me about Blockchain Developer,Hyperledger Fabric,Ethereum,Solidity,REACT,HTML,CSS,TAILWIND,MERN<br><br>📫 How to reach me dideesh.babu@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1KQ9zISyDOqS7RivdrjIEr3XOjrkcGko0/view?usp=drive_link<br><br>
+🎓 Certifications & Training
+B.Tech In EEE-Goverment Engineering collage Idukki
+PG Diploma in Blockchain - Kerala Blockchain Academy
+Blockchain Developer Essentials - Kerala Blockchain Academy
+Blockchain Foundation Program - Kerala Blockchain Academy
 
 
 ## 🌐 Socials:
