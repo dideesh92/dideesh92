@@ -7,7 +7,7 @@ I'm a blockchain developer and full-stack enthusiast with a solid foundation in 
 
 2.PG Diploma in Blockchain - Kerala Blockchain Academy
 
-<img src="<iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>" align="right" height="300px" width="auto" style="padding-left: 200px"></img>
+<img src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen<p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>" align="right" height="300px" width="auto" style="padding-left: 200px"></img>
 
 
 ## 🌐 Socials:
