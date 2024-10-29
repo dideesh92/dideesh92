@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey there, Dideesh here:
 I'm a blockchain developer and full-stack enthusiast with a solid foundation in decentralized technologies and Web 2 & Web 3 development. 
 
 🎓 Certifications & Training
