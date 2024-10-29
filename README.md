@@ -3,10 +3,10 @@ I'm a blockchain developer and full-stack enthusiast with a solid foundation in 
 
 🎓 Certifications & Training
 
-B.Tech In EEE-Goverment Engineering collage Idukki
-PG Diploma in Blockchain - Kerala Blockchain Academy
-Blockchain Developer Essentials - Kerala Blockchain Academy
-Blockchain Foundation Program - Kerala Blockchain Academy
+1.B.Tech In EEE-Goverment Engineering collage Idukki
+
+2.PG Diploma in Blockchain - Kerala Blockchain Academy
+
 
 
 ## 🌐 Socials:
