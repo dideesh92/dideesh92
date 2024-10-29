@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently learning Blockchain Technology<br>👨‍💻 All of my projects are available at https://github.com/dideesh92/portfolio_react<br><br>💬 Ask me about Blockchain Developer,Hyperledger Fabric,Ethereum,Solidity,REACT,HTML,CSS,TAILWIND,MERN<br><br>📫 How to reach me dideesh.babu@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1KQ9zISyDOqS7RivdrjIEr3XOjrkcGko0/view?usp=drive_link<br><br>
+I’m currently learning Blockchain Technology
+
+<iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
+
+<br>👨‍💻 All of my projects are available at https://github.com/dideesh92/portfolio_react<br><br>💬 Ask me about Blockchain Developer,Hyperledger Fabric,Ethereum,Solidity,REACT,HTML,CSS,TAILWIND,MERN<br><br>📫 How to reach me dideesh.babu@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1KQ9zISyDOqS7RivdrjIEr3XOjrkcGko0/view?usp=drive_link<br><br>
 
 
 ## 🌐 Socials:
